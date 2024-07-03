@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/274224775720857642/94f768512a3247599042e97a57584c36/artifacts
+deleted_time: 1719848765263
+end_time: 1719847775092
+entry_point_name: ''
+experiment_id: '274224775720857642'
+lifecycle_stage: deleted
+run_id: 94f768512a3247599042e97a57584c36
+run_name: puzzled-gnat-667
+run_uuid: 94f768512a3247599042e97a57584c36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719847774999
+status: 4
+tags: []
+user_id: Mohamed Sobhy
